@@ -19,5 +19,43 @@ In this study, we design an electromyogram (EMG) sensor that measures the electr
 <br>
 
 <h2 align="center"> Devre Şeması / Circuit Diagram </h2>
-<div align="center"> <img width="480" src="https://user-images.githubusercontent.com/108617345/177048671-d4926de2-5154-416d-9ba9-4c5c38281843.jpg"> </div>
+<div align="center"> <img width="720" src="https://raw.githubusercontent.com/anilhacioglu/Arduino-ile-EMG-Cihazi-Kontrolu/main/Devre%20%C5%9Eemas%C4%B1.png"> </div>
+
+<br>
+<br>
+
+<h2 align="center"> Gerekli Malzemeler / Necessary Materials </h2>
+<div align="center"> EMG Kas Sinyalini Algılama Sensörü / EMG Muscle Signal Detection Sensor
+<div align="center"> Arduino
+<div align="center"> Breadboard 
+<div align="center"> LED x3
+<div align="center"> Buzzer
+<div align="center"> Timsah Kablo / Alligator Cable x20
+<div align="center"> 9V Pil / 9V Battery x2
+<div align="center"> Direnç / Resistor x3
+
+<br>
+<br>
+
+<h2 align="center"> Projenin deney aşamasında alınan örnek veriler / Sample data taken during the experimental phase of the project </h2>
+
+<div align="center"> <img width="550" src="https://raw.githubusercontent.com/anilhacioglu/Arduino-ile-EMG-Cihazi-Kontrolu/main/Erkek%20Dominant%20Kol.png"> </div>
+<h5 align="center"> Erkek Bireyden Alınan Dominant Kol Verisi / Dominant Arm Data from Male Individual </h5>
+<h6 align="center"> ############################################################################### </h6> 
+<div align="center"> <img width="550" src="https://raw.githubusercontent.com/anilhacioglu/Arduino-ile-EMG-Cihazi-Kontrolu/main/Kad%C4%B1n%20Dominant%20Kol.png"> </div> 
+<h5 align="center"> Kadın Bireyden Alınan Dominant Kol Verisi / Dominant Arm Data from Female Individual </h5>
+<h6 align="center"> ############################################################################### </h6>
+<div align="center"> <img width="550" src="https://raw.githubusercontent.com/anilhacioglu/Arduino-ile-EMG-Cihazi-Kontrolu/main/Erkek%20Non-Dominant%20Kol.png"> </div> 
+<h5 align="center"> Erkek Bireyden Alınan Non-Dominant Kol Verisi / Non-Dominant Arm Data from Male Individual </h5>
+<h6 align="center"> ############################################################################### </h6>
+<div align="center"> <img width="550" src="https://raw.githubusercontent.com/anilhacioglu/Arduino-ile-EMG-Cihazi-Kontrolu/main/Kad%C4%B1n%20Non-Dominant%20Kol.jpg"> </div> 
+<h5 align="center"> Kadın Bireyden Alınan Non-Dominant Kol Verisi / Non-Dominant Arm Data from Female Individual </h5>
+
+<br>
+<br>
+
+<h2 align="center"> © Telif Hakları / Copyright </h2>
+“Bu Sayfada yer alan yazı, fotoğraf ve kod, bireysel kullanım dışında izin alınmadan kısmen ya da tamamen kopyalanması ve yayınlanması kesinlikle yasaktır. Bu yasağa uymayanlar hakkında 5846 sayılı Fikir ve Sanat Eserleri Kanunu uyarınca yasal işlem yapılacaktır. Ürünün tüm hakları saklıdır.”
+<h6 align="center"> ############################################################################### </h6>
+“It is strictly forbidden to copy and publish the text, photo and code on this page, in whole or in part, without permission, except for individual use. Legal action will be taken against those who do not comply with this ban in accordance with the Law No. 5846 on Intellectual and Artistic Works. All rights of the product are reserved.”
 
