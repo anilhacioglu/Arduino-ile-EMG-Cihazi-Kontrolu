@@ -54,8 +54,3 @@ In this study, we design an electromyogram (EMG) sensor that measures the electr
 <br>
 <br>
 
-<h2 align="center"> © Telif Hakları / Copyright </h2>
-“Bu Sayfada yer alan yazı, fotoğraf ve kod, bireysel kullanım dışında izin alınmadan kısmen ya da tamamen kopyalanması ve yayınlanması kesinlikle yasaktır. Bu yasağa uymayanlar hakkında 5846 sayılı Fikir ve Sanat Eserleri Kanunu uyarınca yasal işlem yapılacaktır. Ürünün tüm hakları saklıdır.”
-<h6 align="center"> ############################################################################### </h6>
-“It is strictly forbidden to copy and publish the text, photo and code on this page, in whole or in part, without permission, except for individual use. Legal action will be taken against those who do not comply with this ban in accordance with the Law No. 5846 on Intellectual and Artistic Works. All rights of the product are reserved.”
-
